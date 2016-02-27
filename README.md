@@ -1,4 +1,4 @@
-![http://file-cdn.datafans.net/github/mongoimios/cover.jpg](http://file-cdn.datafans.net/github/mongoimios/cover.jpg)
+![http://file-cdn.datafans.net/github/mongoimios/cover1.jpg](http://file-cdn.datafans.net/github/mongoimios/cover1.jpg)
 <br />
 架构
 ============
